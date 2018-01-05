@@ -1,0 +1,20 @@
+Start from master
+    git checkout master
+    (will be your local ak master)
+
+Create a branch:
+    git checkout -b <name_of_issue>
+
+git add
+git commit
+
+git push origin <name_of_issue>
+
+GitHub workflow:
+MAKE SURE TO SELECT AKRAEMER
+accept the changes / merge
+Delete branch
+
+git checkout master
+git pull from your machine
+
